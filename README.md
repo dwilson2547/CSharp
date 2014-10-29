@@ -1,7 +1,7 @@
 Github repository created for the purpose of sharing and collaborating C# projects.
 
 Repository is open to all, but only editable by collaborators.  To become a collaborator, email 
-administration at dwilson2547@gmail.com 
+administration at dwilson2547@gmail.com lstoneci@purdue.edu
 
 Hunter Thornsberry - hthornsb@purdue.edu
 
