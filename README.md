@@ -9,7 +9,7 @@ Luella Stonecipher-- lstoneci@purdue.edu
 
 Aurelio Terriquez --  aterriqu@purdue.edu
 
-Hunter Thornsberry - hthornsb@purdue.edu
+Hunter Thornsberry - 
 
 Possibilities for using github integration with visual studio will be explored and readme file
 will be updated accordingly 
